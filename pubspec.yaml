@@ -53,7 +53,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: any
-  dropdown_search: ^6.0.1
+  dropdown_search: ^6.0.2
   omni_datetime_picker: ^2.0.5
   pdf: ^3.11.0
   printing: ^5.12.0
